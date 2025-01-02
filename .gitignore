@@ -1,1 +1,7 @@
 .venv
+/healthhelper.egg-info
+/healthhelper-app/__pycache__
+/healthhelper-app/__pycache__/*
+/healthhelper-app/__pycache__/*
+/healthhelper-app/.env.local
+/healthhelper-app-frontend/.env.local
