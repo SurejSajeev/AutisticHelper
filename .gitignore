@@ -1,4 +1,5 @@
 .venv
+.env
 /healthhelper.egg-info
 /healthhelper-app/__pycache__
 /healthhelper-app/__pycache__/*
